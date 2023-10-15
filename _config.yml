@@ -53,5 +53,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# skin
 minima:
   skin: classic
+# Define the order of pages in Navbar
+header_pages:
+  - index.md
+  - pages/group.md
+  - pages/publications.md
+  - pages/join.md
+  - pages/contact.md
