@@ -4,10 +4,12 @@
 
 layout: page
 title: Home
+page_title: Yi Zhang, Ph.D.
 ---
-{% include image.html image_path="pics/yizhang.png" image_width_percent="30%" %}
+{% include image.html image_path="pics/yizhang.png" image_width_percent="20%" %}
 
-Yi Zhang is a Research Fellow at the [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University T.H. Chan School of Public Health][HSPH]. I joined [Dr. X. Shirley Liu][LiuLab]'s lab in July 2019 and also co-mentored by [Dr. Myles Brown][MylesLab] and [Dr. Xihong Lin][LinLab]. I did my PhD in Bioengineering in [Dr. Jun S. Song][SongLab]'s group at [University of Illinois at Urbana-Champaign][UIUC] working for NIH Big Data to Knowledge (BD2K) U54 center.
+
+Yi Zhang is a Research Fellow at the [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University T.H. Chan School of Public Health][HSPH]. Starting Jan 2024, Dr. Zhang will be Assistant Professor at [Duke University][Duke] in the [Department of Neurosurgery][DukeNeurosurgery] (primary faculty) and [Department of Biostatistics and Bioinformatics][DukeBB] (secondary faculty). Dr. Zhang obtained PhD in Bioengineering with [Dr. Jun S. Song][SongLab] at [University of Illinois at Urbana-Champaign][UIUC]. She joined [Dr. X. Shirley Liu][LiuLab]'s lab and was also co-mentored by [Dr. Myles Brown][MylesLab] and [Dr. Xihong Lin][LinLab], as a Research Fellow at [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University T.H. Chan School of Public Health][HSPH]. 
 
 {% include linebreaker.html%}
 
@@ -26,3 +28,7 @@ Grad students and postdocs in the areas of computational biology, bioinformatics
 [LinLab]: https://content.sph.harvard.edu/xlin/people.html
 [SongLab]: https://song.igb.illinois.edu/
 [UIUC]: https://illinois.edu/
+[Duke]: https://duke.edu
+[DukeSoM]: https://medschool.duke.edu
+[DukeNeurosurgery]: https://neurosurgery.duke.edu
+[DukeBB]: https://biostat.duke.edu
