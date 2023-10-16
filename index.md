@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: page
 title: Home
 ---
 {% include image.html image_path="pics/yizhang.png" image_width_percent="30%" %}
@@ -11,6 +11,7 @@ Yi Zhang is a Research Fellow at the [Department of Data Science, Dana-Farber Ca
 
 {% include linebreaker.html%}
 
+---
 ## Research Interests
 
 I have developed computational biology and statistical learning methods to decipher human genetic variants associated with cancer risk. I have also been developing machine learning methods for single-cell genomics data to understand cells in tumor. I also enjoy working on patient genomics data to understand disease and identify therapeutic targets. Our collaborators include Dr. Catherine J. Wu at DFCI and Dr. David E. Fisher at MGH. My research interests are to develop statistical and machine learning methods for data-driven discoveries in biomedicine. For fun, I enjoy hiking, music and wildlife photography.
