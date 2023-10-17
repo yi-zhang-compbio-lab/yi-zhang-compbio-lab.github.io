@@ -1,9 +1,4 @@
 <header class="site-header">
-
-    <div>
-        <img src="{{ site.header_img | escape | prepend: "/" | relative_url }}" alt="" style="display: block;width:{{site.page_width}};  margin-left: auto; margin-right: auto; ">
-      </div>
-
     <div class="wrapper">
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -31,6 +26,14 @@
           </div>
         </nav>
       {%- endif -%}
+
     </div>
+
+    <div>
+      <img src="{{ site.header_img | escape | prepend: "/" | relative_url }}" alt="" class="nav-bar-img">
+    </div>
+
+
+
   </header>
   
