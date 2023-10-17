@@ -6,7 +6,7 @@ layout: page
 title: Home
 page_title: Yi Zhang, Ph.D.
 ---
-{% include image.html image_path="pics/yizhang.png" image_width_percent="20%" %}
+{% include image.html image_path="pics/yizhang.png" image_width="20%" %}
 
 
 Yi Zhang is a Research Fellow at the [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University T.H. Chan School of Public Health][HSPH]. Starting Jan 2024, Dr. Zhang will be Assistant Professor at [Duke University][Duke] in the [Department of Neurosurgery][DukeNeurosurgery] (primary faculty) and [Department of Biostatistics and Bioinformatics][DukeBB] (secondary faculty). Dr. Zhang obtained PhD in Bioengineering with [Dr. Jun S. Song][SongLab] at [University of Illinois at Urbana-Champaign][UIUC]. She joined [Dr. X. Shirley Liu][LiuLab]'s lab and was also co-mentored by [Dr. Myles Brown][MylesLab] and [Dr. Xihong Lin][LinLab], as a Research Fellow at [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University T.H. Chan School of Public Health][HSPH]. 

@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yi Zhang CompBio
+title: Yi Zhang CompBio @ Duke
 email: wingsyiz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -64,4 +64,7 @@ header_pages:
   - pages/publications.md
   - pages/join.md
   - pages/contact.md
+# background image for header
 header_img: pics/duke_chapel.jpg
+# width of the page
+page_width: 1200px # controls both header image and text content width. 
