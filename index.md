@@ -27,6 +27,7 @@ page_title: Computational Biology Lab @ Duke
 {% include spareline.html%}
 ---
 ## Research Interests
+{% include spareline.html%}
 
 
 
