@@ -18,13 +18,13 @@ page_title: Computational Biology Lab @ Duke
 
 - We are interested in disease systems of multi-cellular components especially cancer. 
 - We lead development of computational, statistical, and machine learning methods that leverage large-scale and multi-omic data to understand cancer initiation, progression, and therapeutic responses. 
-- We form an interdisciplinary, inclusive, and supportive environment. We welcome computational biologists, bioinformaticians, computer scientists, MDs, immunologists, and oncologists. 
+- We foster an interdisciplinary, inclusive, and supportive environment. We welcome computational biologists, bioinformaticians, computer scientists, MDs, immunologists, and oncologists. 
 - We are enthuastic collaborators to work on real-world biological and translational genomics problems. 
 - Postdocs and students interested in computational biology, bioinformatics, cancer genomics, and machine learning - Welcome to join us! [Contact]
 - Graduate programs: Computational Biology and Bioinformatics ([CBB]), Biostatsistics (PhD & MS). Incoming: University Program in Genetics and Genomics, etc.
 
 {% include linebreaker.html%}
-
+{% include spareline.html%}
 ---
 ## Research Interests
 
@@ -32,22 +32,32 @@ page_title: Computational Biology Lab @ Duke
 
 {% include image.html image_path="pics/research1.png" image_width="50%" %}
 
-We collaborate on  form  lenses to understand cancer  fascinated by disease systems with multi-cellular components, especially cancer, through the lenses of . have developed computational biology and statistical learning methods to decipher human genetic variants associated with cancer risk. I have also been developing machine learning methods for single-cell genomics data to understand cells in tumor. I also enjoy working on patient genomics data to understand disease and identify therapeutic targets. Our collaborators include Dr. Catherine J. Wu at DFCI and Dr. David E. Fisher at MGH. My research interests are to develop statistical and machine learning methods for data-driven discoveries in biomedicine. For fun, I enjoy hiking, music and wildlife photography.
+Tumor, like many multi-cellular disease systems, are composed of multiple cell types. For solid tumor, the <u>Cancer-intrinsic ("Seed")</u> properties like proliferation, mutations, and epigenetic changes, and the <u>Cancer-extrinsic ("Soil")</u> properties like tumor-infiltrating immune cell states and inflammation, both affect tumor progression and therapeutic responses. We aim to understand molecular gene programs of tumor microenvironment (TME) cell states, pinpoint functional cancer-TME interactions, and identity targetable tumor immunity modulators. 
+
+We are core members of the Brain Tumor Omics Program ([BTOP](https://neurosurgery.duke.edu/news/new-research-program-focuses-omics-better-understand-brain-tumors#:~:text=The%20Brain%20Tumor%20Omics%20Program%20(BTOP)%20addresses%20the%20issue%20of,development%20or%20influence%20therapy%20response.)) at Duke Preston Robert Tisch Brain Tumor Center. We will use our computational expertise to develop methods that allow us to understand the incurable tumor types and to improve cancer therapy efficacy. 
+
+<u>Related work</u>: [MetaTiME for TME cell states](https://www.nature.com/articles/s41467-023-38333-8) ( *Zhang et al. Nature communications* 2023); [Low-grade glioma variant](https://academic.oup.com/neuro-oncology/article/23/4/638/5948532) (*Manjunath et al. Neuro-Oncology*, Song Lab, UIUC).
+<u>Ongoing</u>: (1) Brain & Breast tumor intrinsic and extrinsic cell states; (2) Tumor-infiltrating macrophage states; (3) Spatial transcriptomics for brain tumor.
 
 
 
 {% include linebreaker.html%}
+{% include spareline.html%}
+
 
 {% include image.html image_path="pics/research2.png" image_width="50%" %}
 
-How do you mathematically describe a cell? Single-cell genomics data provide high-dimensional measurement of gene expression for each cell. How do we integrate the power of the large number of cell data points to understand what roles each cells are playing in tumors? We develop computational methods leveraging machine learning models, large-scale single-cell genomics data, and multi-omic datatypes like spatial transcriptomics and multiome. Currently, we are particular interested in low-dimensional methods and interpretable models. Related work: [MetaTiME][https://www.nature.com/articles/s41467-023-38333-8] ( *Zhang et al. Nature communications* ), topic modeling analysis for 
-Interpretable machine learning methods developed for advanced integration of single-cell omics. Single-cell RNA sequencing have revealed heterogeneous cell states in the non-cancerous cells shared cross tumors. However, in analyzing tumor microenvironment (TME), canonical scRNA analysis encounters challenges of inconsistent cell states definition and difficulty in large-scale data integration. I developed a data-driven method, MetaTiME, to transfer knowledge trained from millions of single-cell data from public domain. MetaTiME learns biologically interpretable space of TME scRNA landscape, and provides a toolkit to automatically annotate cell states and evaluate signature continuums for new TME scRNA. In summary, MetaTiME utilizes interpretable machine learning to understand cellular states and gene regulators for tumor immunity and cancer immunotherapy. The software has been widely used among collaborators in automatically analyzing new tumor scRNA data and to understand tumor microenvironment heterogeneity. The computational methodology is generalizable to other systems of large-scale single-cell omics analysis.
+Single-cell genomics data provide high-dimensional measurement of gene expression for each cell. *How do we mathematically describe a cell? How do we find cell types or cell states most relavant to biology? How do we integrate the power of the large number of cell data points to understand what roles each cells are playing in tumors?* We develop computational methods leveraging machine learning models, large-scale single-cell genomics data, and multi-omic datatypes like spatial transcriptomics and multiome. Currently, we are particular interested in low-dimensional methods and deep learning models with interpretability. 
+
+<u>Related work</u>: [MetaTiME for TME cell states](https://www.nature.com/articles/s41467-023-38333-8) ( *Zhang et al. Nature communications* 2023); *Software*: [MetaTiME cell state annotator toolkit](https://github.com/yi-zhang/MetaTiME), [Cross-cohort training pipeline](https://github.com/yi-zhang/MetaTiMEpretrain). <u>Ongoing</u>: (1) Machine learning method for large-scale single-cell transcriptomics integration & interpretation; (2) Timecourse single-cell multiome (ATAC+RNA) modeling; (3) Spatial transcriptomics for brain cancer & breast cancer. 
+
 
 {% include linebreaker.html%}
+{% include spareline.html%}
 
 {% include image.html image_path="pics/research3.png" image_width="50%" %}
 
-Human genetic variants are natural probes to investigate cell context-dependent gene regulation and human disease associations. 
+Human genetic variants are natural probes to investigate cell context-dependent gene regulation related to human disease. Genome-wide association studies (GWAS) identified many genetic variants associated with cancer susceptibility. *What are the molecular mechanisms behind these associations? What cell types mediate gene modulation for a certain disease trait?* Our previous computational methods integrated multiple NGS data (*Zhang et al., 2018 Bioinformatics*), and integrated eQTL, haplotype-specific expression, epigenetics, motif simulation, and 3D chromatin interactions, to identify gene regulatory effect of functional variants in enhancers ([Gene regulatory non-coding variant](https://aacrjournals.org/cancerres/article/78/7/1579/633799/Integrative-Genomic-Analysis-Predicts-Causative), *Zhang et al. 2018 Cancer Research*). We were among the first to infer cell-dependent effect of variant-associated gene regulation ([Breast variant and immune cell](https://www.frontiersin.org/articles/10.3389/fgene.2019.00754/full), *Zhang et al. 2019 Frontiers in Genetics*). We are interested in further investigate the cell-dependent effect of genetic variants by marrying GWAS summary statistics and functional genomics in ongoing work.
 
 
 [DFCI]: https://ds.dfci.harvard.edu/
@@ -63,3 +73,4 @@ Human genetic variants are natural probes to investigate cell context-dependent 
 [DukeBB]: https://biostat.duke.edu
 [Contact]: mailto:yi.zhang@duke.edu
 [CBB]: https://medschool.duke.edu/education/biomedical-phd-programs/computational-biology-and-bioinformatics-program
+
