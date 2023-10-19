@@ -4,7 +4,7 @@ title: Join
 page_title: Join us!
 permalink: /join/
 ---
-{% include image.html image_path="../pics/duke_recruit_betterres.pdf" image_width="100%" %}
+{% include image.html image_path="../pics/duke_recruit_betterres.png" image_width="100%" %}
 
 {% include spareline.html%}
 - **We are recruiting! Postdocs and Students** interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, and immunology - **Welcome to join us!    [Contact]**
