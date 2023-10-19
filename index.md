@@ -11,8 +11,9 @@ page_title: Computational Biology Lab @ Duke
 ### Yi Zhang, Ph.D.
 **Starting Jan 2024, Yi is an Assistant Professor at [Duke University][Duke] in the [Department of Neurosurgery][DukeNeurosurgery] and [Department of Biostatistics and Bioinformatics][DukeBB].** Yi obtained PhD in Bioengineering with [Dr. Jun S. Song][SongLab] at [University of Illinois at Urbana-Champaign][UIUC]. She joined [Dr. X. Shirley Liu][LiuLab]'s lab and with co-mentors [Dr. Myles Brown][MylesLab] and [Dr. Xihong Lin][LinLab], as a Research Fellow at [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University School of Public Health][HSPH]. She has been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. She has been developing machine learning methods that leverage large-scale single-cell datasets to understand cell states in tumor microenvironment. Her ongoing work include deep learning modeling of single-cell and spatial transcriptomics, and statistical models that combines statistical genetics and functional genomics.
 
-{% include linebreaker.html%}
-**Postdocs and Students interested in computational biology, machine learning, bioinformatics, cancer genomics, human genetics, and immunology - Welcome to join us!    [Contact]**
+
+{% include spareline.html%}
+**Postdocs and Students** interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, and immunology - **Welcome to join us!    [Contact]**
 
 {% include linebreaker.html%}
 
@@ -21,10 +22,9 @@ page_title: Computational Biology Lab @ Duke
 - We foster an interdisciplinary, inclusive, and supportive environment. We welcome computational biologists, bioinformaticians, computer scientists, MDs, immunologists, and oncologists. 
 - We are enthuastic collaborators to work on real-world biological and translational genomics problems. 
 - Postdocs and students interested in computational biology, bioinformatics, cancer genomics, and machine learning - Welcome to join us! [Contact]
-- Graduate programs: Computational Biology and Bioinformatics ([CBB]), Biostatsistics (PhD & MS). Incoming: University Program in Genetics and Genomics, etc.
+- Prospective students are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB]), Biostatsistics (PhD & MS). Incoming: University Program in Genetics and Genomics, etc.
 
 {% include linebreaker.html%}
-{% include spareline.html%}
 ---
 ## Research Interests
 {% include spareline.html%}
