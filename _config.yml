@@ -25,7 +25,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: > 
- Copyright -  Yi Zhang's computational biology lab at Duke University (2024)
+ Yi Zhang's computational biology lab at Duke University (2024)
 
 # Build settings
 
@@ -83,3 +83,5 @@ header_img: pics/duke_chapel.jpg
 # width of the page
 page_width: 1200px # controls both header image and text content width. 
 
+# add google-analytics
+google_analytics: G-8125DSHDFE
