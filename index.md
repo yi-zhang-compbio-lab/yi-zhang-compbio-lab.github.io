@@ -13,7 +13,7 @@ page_title: Computational Biology Lab @ Duke
 
 
 {% include spareline.html%}
-**Postdocs and Students** interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, and immunology - **Welcome to join us!    [Contact]**
+- **We will be recruiting postdocs and Duke students**. Interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, and immunology? - **Welcome to join us!**
 
 {% include linebreaker.html%}
 
@@ -21,8 +21,8 @@ page_title: Computational Biology Lab @ Duke
 - We lead development of computational, statistical, and machine learning methods that leverage large-scale and multi-omic data to understand cancer initiation, progression, and therapeutic responses. 
 - We foster an interdisciplinary, inclusive, and supportive environment. We welcome computational biologists, bioinformaticians, computer scientists, MDs, immunologists, and oncologists. 
 - We are enthuastic collaborators to work on real-world biological and translational genomics problems. 
-- Postdocs and students interested in computational biology, bioinformatics, cancer genomics, and machine learning - Welcome to join us! [Contact]
-- Prospective students are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB]), Biostatsistics (PhD & MS). Incoming: University Program in Genetics and Genomics, etc.
+- Postdocs and students interested in computational biology, bioinformatics, cancer genomics, and machine learning - Welcome to join us.
+- Prospective students are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB] - PhD), Biostatsistics (PhD & MS). Graduate admission decisions are made by program committee. We will also be available for CBB & Biostats students to rotate starting 2024 Jan.
 
 {% include linebreaker.html%}
 ---
