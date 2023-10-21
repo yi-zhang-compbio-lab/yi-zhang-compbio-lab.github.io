@@ -13,7 +13,7 @@ page_title: Computational Biology Lab @ Duke
 
 
 {% include spareline.html%}
-- **We will be recruiting postdocs and Duke students**. Interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, and immunology? - **Welcome to join us!**
+- **We will be recruiting postdocs and Duke students**. Interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, tumor immunology, or brain tumor? - **Welcome to join us!**
 
 {% include linebreaker.html%}
 
@@ -21,8 +21,8 @@ page_title: Computational Biology Lab @ Duke
 - We lead development of computational, statistical, and machine learning methods that leverage large-scale and multi-omic data to understand cancer initiation, progression, and therapeutic responses. 
 - We foster an interdisciplinary, inclusive, and supportive environment. We welcome computational biologists, bioinformaticians, computer scientists, MDs, immunologists, and oncologists. 
 - We are enthuastic collaborators to work on real-world biological and translational genomics problems. 
-- Postdocs and students interested in computational biology, bioinformatics, cancer genomics, and machine learning - Welcome to join us.
-- Prospective students are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB] - PhD), Biostatsistics (PhD & MS). Graduate admission decisions are made by program committee. We will also be available for CBB & Biostats students to rotate starting 2024 Jan.
+- <u>Postdocs</u> or PhD soon-to-be who work on computational biology, bioinformatics, cancer genomics, single-cell omics, spatial transcriptomics, machine learning, genetic variant function, and biological questions in cancer or tumor microenvironment - Welcome to contact and join us! If possible please include (1) CV or Resume (2) A short research statement describing previous/ongoing work and proposed research and interest (3) 1-3 representative publications (published, accepted, or preprint) (4) Three names of references and contact information. Thanks!
+- <u>Prospective students</u> interested in our research are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB] - PhD), Biostatsistics (PhD & MS). Graduate admission decisions are made by program committee. If contacting for interest, please include (1) CV or Resume (2) Short description of research experiences and interest (3) Three names of references and contact information. We will also be available for CBB & Biostats students to rotate starting 2024 Jan. Thanks!
 
 {% include linebreaker.html%}
 ---
