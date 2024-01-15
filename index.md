@@ -9,11 +9,11 @@ page_title: Computational Biology Lab @ Duke
 {% include image.html image_path="pics/yizhang.png" image_width="20%" %}
 
 ### Yi Zhang, Ph.D.
-**Starting Jan 2024, Yi is an Assistant Professor at [Duke University][Duke] in the [Department of Neurosurgery][DukeNeurosurgery] and [Department of Biostatistics and Bioinformatics][DukeBB].** Yi obtained PhD in Bioengineering with [Dr. Jun S. Song][SongLab] at [University of Illinois at Urbana-Champaign][UIUC]. She joined [Dr. X. Shirley Liu][LiuLab]'s lab and with co-mentors [Dr. Myles Brown][MylesLab] and [Dr. Xihong Lin][LinLab], as a Research Fellow at [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University School of Public Health][HSPH]. She has been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. She has been developing machine learning methods that leverage large-scale single-cell datasets to understand cell states in tumor microenvironment. Her ongoing work include deep learning modeling of single-cell and spatial transcriptomics, and statistical models that combines statistical genetics and functional genomics.
+**Yi is an Assistant Professor at [Duke University][Duke] in the [Department of Neurosurgery][DukeNeurosurgery] and [Department of Biostatistics and Bioinformatics][DukeBB].** Yi obtained PhD in Bioengineering with [Dr. Jun S. Song][SongLab] at [University of Illinois at Urbana-Champaign][UIUC]. She joined [Dr. X. Shirley Liu][LiuLab]'s lab and with co-mentors [Dr. Myles Brown][MylesLab] and [Dr. Xihong Lin][LinLab], as a Research Fellow at [Department of Data Science, Dana-Farber Cancer Institute][DFCI] and [Harvard University School of Public Health][HSPH]. She has been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. She has also been developing machine learning methods that leverage large-scale single-cell datasets to understand cell states in tumor microenvironment. Her ongoing work include deep learning modeling of single-cell and spatial transcriptomics, statistical models that combines statistical genetics and functional genomics, and understanding of tumor microenvironment.
 
 
 {% include spareline.html%}
-- **We will be recruiting postdocs and Duke students**. Interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, tumor immunology, or brain tumor? - **Welcome to join us!**
+- **We are recruiting postdocs, students, and staff**. Interested in computational biology, machine learning, bioinformatics, cancer genomics, single-cell multi-omics, spatial transcriptomics, human genetics, tumor immunology, or brain tumor? - **Welcome to join us!**
 
 {% include linebreaker.html%}
 
@@ -22,7 +22,7 @@ page_title: Computational Biology Lab @ Duke
 - We foster an interdisciplinary, inclusive, and supportive environment. We welcome computational biologists, bioinformaticians, computer scientists, MDs, immunologists, and oncologists. 
 - We are enthuastic collaborators to work on real-world biological and translational genomics problems. 
 - <u>Postdocs</u> or PhD soon-to-be who work on computational biology, bioinformatics, cancer genomics, single-cell omics, spatial transcriptomics, machine learning, genetic variant function, and biological questions in cancer or tumor microenvironment - Welcome to contact and join us! If possible please include (1) CV or Resume (2) A short research statement describing previous/ongoing work and proposed research and interest (3) 1-3 representative publications (published, accepted, or preprint) (4) Three names of references and contact information. Thanks! (Job postings to come)
-- <u>Prospective students</u> interested in our research are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB] - PhD), Biostatsistics (PhD & MS). Graduate admission decisions are made by program committee. If contacting for interest, please include (1) CV or Resume (2) Short description of research experiences and interest (3) Three names of references and contact information. We will also be available for CBB & Biostats students to rotate soon. Thanks!
+- <u>Prospective students</u> interested in our research are encouraged to apply through Duke graduate programs: Computational Biology and Bioinformatics ([CBB] - PhD), Biostatsistics (PhD & MS). (Or co-mentoring for other Duke programs!) Graduate admission decisions are made by program committee. If contacting for interest, please include (1) CV or Resume (2) Short description of research experiences and interest (3) Three names of references and contact information. We will also be available for CBB & Biostats students to rotate soon.
 
 {% include linebreaker.html%}
 ---
@@ -70,7 +70,7 @@ Human genetic variants are natural probes to investigate cell context-dependent 
 [UIUC]: https://illinois.edu/
 [Duke]: https://duke.edu
 [DukeSoM]: https://medschool.duke.edu
-[DukeNeurosurgery]: https://neurosurgery.duke.edu
+[DukeNeurosurgery]: https://neurosurgery.duke.edu/news/yi-zhang-joins-duke-neurosurgery-faculty
 [DukeBB]: https://biostat.duke.edu
 [Contact]: mailto:yi.zhang@duke.edu
 [CBB]: https://medschool.duke.edu/education/biomedical-phd-programs/computational-biology-and-bioinformatics-program
