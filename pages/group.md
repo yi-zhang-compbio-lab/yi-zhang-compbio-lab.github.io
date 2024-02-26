@@ -18,8 +18,10 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 
 {% include spareline.html%}
 
+{% include image.html image_path="../pics/chuhanwensun.png" image_width="20%" %}
+
 ##### Chuhanwen Sun
-Chuhanwen is a visiting research intern currently a Master student at Karolinska Institute. He obtained B.S. from Tsinghua University and is interning in the lab through Aug 2024 before returning to his master program study.
+My name is Chuhanwen (Silas) Sun, currently a visiting research intern in Yi's lab through Aug 2024, as part of my Master program study at Karolinska Institute. I graduated from Tsinghua University with degree in Life Sciences. I am eager to enhance my research capabilities, focusing specifically on data-driven disease research, particularly in the realms of disease diagnosis and treatment. In my free time, I enjoy basketball, gym working out and film photography. 
 
 {% include spareline.html%}
 
