@@ -4,7 +4,7 @@ title: Publications
 page_title: Publications
 permalink: /publications/
 ---
-
+- Chuhanwen Sun*, <strong>Zhang Y*#</strong>. "STHD: probabilistic cell typing of single Spots in whole Transcriptome spatial data with High Definition" <strong><em>BioRxiv</em></strong> (2024) <a href="https://www.biorxiv.org/content/10.1101/2024.06.20.599803v1" target="_blank">Preprint</a>.   <a href="https://github.com/yi-zhang/STHD" target="_blank">STHD spatial transcriptomics software on GitHub</a>
 
 - <strong>Zhang Y</strong>, Xiang G, <u>Jiang A</u>, Fan J, Wang C, Lynch A, Zeng Z, Zhang W, <u>Kang J</u>, Gu S, Wan C, Zhang B, Brown M#, Liu XS#, Meyer C#. "MetaTiME: Meta-components of the Tumor Microenvironment." <strong><em>Nature Communications</em></strong> (2023) <a href="https://www.nature.com/articles/s41467-023-38333-8" target="_blank">Paper</a>. <a href="https://twitter.com/Wings7Spread/status/1557419740552994819" target="_blank">Tweetorial on twitter</a>. <a href="https://github.com/yi-zhang/MetaTiME" target="_blank">MetaTiME software on GitHub</a>
 
