@@ -48,6 +48,10 @@ jobs:
           rbenv install 3.1.4
           rbenv global 3.1.4
           ruby -v
+      - name: Setup Bundler
+        run: gem install bundler
+      - name: Bundle install
+        run: bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
