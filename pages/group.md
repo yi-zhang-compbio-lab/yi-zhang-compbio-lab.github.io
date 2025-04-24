@@ -20,6 +20,14 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 
 
 
+{% include spareline.html%}
+
+{% include image.html image_path="../pics/zionsheng.png" image_width="20%" %}
+
+##### Zion Sheng
+I am a Research Technician at Duke Neurosurgery, supervised by Dr. Yi Zhang. I completed my undergraduate training at CUFE and UCLA, followed by a master's degree in ECE at Duke. Prior to my current position, I engaged in various projects at Duke Pathology, Duke ECE, and Mizzou EECS, where I co-authored several publications and presentations. My research is centered around highly efficient learning algorithms and digital biomedicine. In Dr. Yi Zhang's lab, I am dedicated to the development of innovative and useful computational methods for integrative omics data analysis across multiple modalities. Outside work, I enjoy working out, reading, and having fun with friends.
+
+
 
 {% include spareline.html%}
 
@@ -27,8 +35,6 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 
 ##### Zhujun (Christina) Yao
 I am a first-year PhD student in Biology at Duke University, working as a rotation student in Yi’s lab since December 2024. I received my bachelor's degree in Cell and Molecular Biology at Duke Kunshan University. My research interest is to integrate computational tools and molecular biology experiments to promote disease diagnostics or therapeutic development. In my free time, I enjoy drawing, swimming, and listening to Taylor Swift.  
-
-
 
 
 
