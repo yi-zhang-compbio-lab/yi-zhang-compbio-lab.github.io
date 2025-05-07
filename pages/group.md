@@ -44,7 +44,7 @@ I am a first-year PhD student in Biology at Duke University, working as a rotati
 
 ##### Tong Cheng
 
-My name is Tong (Roxy) Cheng, and I am currently a second-year Master student in Biostatistics at Duke University. I hold a dual bachelor’s degree in mathematics and psychology from Boston University. I aim to develop impactful research projects that drive the creation of innovative medical treatments and therapies.  In my free time, I enjoy playing video games, such as League of Legends, cooking, and reading
+My name is Tong (Roxy) Cheng, and I am currently a second-year Master student in Biostatistics at Duke University. I hold a dual bachelor’s degree in mathematics and psychology from Boston University. I aim to develop impactful research projects that drive the creation of innovative medical treatments and therapies.  In my free time, I enjoy playing video games, such as League of Legends, cooking, and reading.
 
 
 
@@ -55,6 +55,16 @@ My name is Tong (Roxy) Cheng, and I am currently a second-year Master student in
 ##### Zijia Tang
 
 My name is Zijia (Thomas) Tang, and I am a undergraduate research intern in Yi’s lab starting June 2024, majoring in Computer Science. I am a freshman at Duke University starting in September 2024. My research interests lie in computational biology and machine learning. Previously, I delved into single-cell perturbation, employing Variational Autoencoders (VAEs) to predict cellular responses to perturbations. I’m eager to increase the interpretability of my previous work and learn ways to combine privileged information and new information found by neural networks. In my free time, I enjoy playing drums, exercising, and reading science fiction.
+
+
+
+{% include spareline.html%}
+
+{% include image.html image_path="../pics/palakjolly.jpg" image_width="20%" %}
+
+##### Palak Jolly
+
+I’m Palak Jolly, a third year undergraduate student studying Computer Science, Bioinformatics and on the pre-medical track. I’m primarily interested in applying artificial intelligence and machine learning to larger biomedical questions, supporting the development of more effective disease response through predictive modeling and precision medicine. Previously, I have delved into protein structure prediction, and computationally modeling synthetic gene circuits for oncological applications. When free, I enjoy cooking, writing poetry and singing classical Indian music.
 
 
 
@@ -81,6 +91,16 @@ I am a second-year undergraduate student majoring in Math and Computer Science w
 
 {% include spareline.html%}
 
+{% include image.html image_path="../pics/yitongzhou.jpg" image_width="20%" %}
+
+##### Yitong Zhou
+
+My name is Yitong Zhou. l am a junior data science student with expertise in machine learning, graph neural networks, and anomaly detection. l've experienced in interdisciplinary projects combining quantitative research, algorithm optimization, and data visualization. l am passionate about cutting-edge research in graph-based learning, robust machine learning techniques, and neural networks. With my strong programming skills in Python, MATLAB, and Java with proficiency in advanced machine learning tools. I am also equipped with strong ability to handle complex data sets and perform dimensionality reduction, anomaly detection, and predictive modeling.
+
+
+
+{% include spareline.html%}
+
 {% include image.html image_path="../pics/yuqianzhang.jpg" image_width="20%" %}
 
 ##### Yuqian Zhang
@@ -102,4 +122,4 @@ I am a undergraduate student majoring Applied Mathematics. My previous research 
 | Chuhanwen Sun | Master student, Research Intern | PhD student |
 | Yijia Alva Jiang | Master student, Harvard DBMI, Shirley Liu lab | PhD student, UPenn |
 | Jack Jiajinlong Kang | Master student, Harvard CBQG, Shirley Liu lab | PhD student, MD Anderson Cancer Center |
-| Yingxiao Shi | PhD student, Harvard BBS, Shirley Liu lab | PhD student, Harvard & Dana-Farber Cancer Institute |
+| Yingxiao TK Shi | PhD student, Harvard BBS, Shirley Liu lab | PhD student, Harvard & Dana-Farber Cancer Institute |
