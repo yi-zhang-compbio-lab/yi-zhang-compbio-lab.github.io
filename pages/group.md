@@ -10,7 +10,7 @@ permalink: /group/
 {% include image.html image_path="../pics/yizhang.png" image_width="20%" %}
 
 ##### Yi Zhang, PhD
-I'm an Assistant Professor at Duke University School of Medicine in the Department of Neurosurgery and Department of Biostatistics and Bioinformatics. I obtained BS from University of Science and Technology of China (USTC), and PhD in Bioengineering with Dr. Jun S. Song at University of Illinois at Urbana-Champaign (UIUC). I did postdoc at Department of Data Science, Dana-Farber Cancer Institute and Harvard University School of Public Health mentored by Shirley Liu, Myles Brown, and Xihong Lin. I have been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. I have also recently been developing machine learning, and artificial intelligence methods that leverage large-scale single-cell datasets to understand cell states in tumor microenvironment. My ongoing work include deep learning models of high-resolution spatial transcriptomics, computational pathology, and statistical models for genetics and functional genomics. For fun, I enjoy hiking, music and wildlife photography. 
+I'm an Assistant Professor at Duke University School of Medicine in the Department of Neurosurgery and Department of Biostatistics and Bioinformatics. I obtained BS from University of Science and Technology of China (USTC), and PhD in Bioengineering with Dr. Jun S. Song at University of Illinois at Urbana-Champaign (UIUC). I did postdoc at Department of Data Science, Dana-Farber Cancer Institute and Harvard University School of Public Health mentored by Shirley Liu, Myles Brown, and Xihong Lin. I have been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. I have also recently been developing machine learning, and artificial intelligence methods that leverage large-scale single-cell datasets to understand cell states in tumor microenvironment. My ongoing work include ML/AI models of high-resolution spatial transcriptomics, computational pathology, and ML/AI models for genetics and functional genomics. For fun, I enjoy hiking, music and wildlife photography. 
 
 {% include spareline.html%}
 
@@ -21,10 +21,19 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 
 
 {% include spareline.html%}
+
+{% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
+
+##### Weihang Zhang
+Postdoctoral Associate incoming. Bioinformatics, Computer Science, Multi-omics.
+
+
+{% include spareline.html%}
+
 {% include image.html image_path="../pics/zionsheng.png" image_width="20%" %}
 
 ##### Zion Sheng
-I am a Research Technician II supervised by Dr. Yi Zhang. I completed my undergraduate training at CUFE and UCLA, followed by a master's degree in ECE at Duke. Prior to my current position, I engaged in various projects at Duke Pathology, Duke ECE, and Mizzou EECS, where I co-authored several publications and presentations. My research is centered around highly efficient learning algorithms and digital biomedicine. In Dr. Yi Zhang's lab, I am dedicated to the development of innovative and useful computational methods for integrative omics data analysis across multiple modalities. Outside work, I enjoy working out, reading, and having fun with friends.
+I am a Research Technician II supervised by Dr. Yi Zhang. I completed my undergraduate training at CUFE and UCLA, followed by a master's degree in ECE at Duke. Prior to my current position, I engaged in various projects at Duke Pathology, Duke ECE, and Mizzou EECS, where I co-authored several publications and presentations. My research is centered around highly efficient learning algorithms and digital biomedicine. In the lab, I am dedicated to the development of innovative and useful computational methods for integrative omics data analysis across multiple modalities. Outside work, I enjoy working out, reading, and having fun with friends.
 
 
 
@@ -33,16 +42,7 @@ I am a Research Technician II supervised by Dr. Yi Zhang. I completed my undergr
 {% include image.html image_path="../pics/zhujunyao.jpeg" image_width="20%" %}
 
 ##### Zhujun (Christina) Yao
-I am a first-year PhD student in Biology at Duke University, working as a rotation student in Yi’s lab since December 2024. I received my bachelor's degree in Cell and Molecular Biology at Duke Kunshan University. My research interest is to integrate computational tools and molecular biology experiments to promote disease diagnostics or therapeutic development. In my free time, I enjoy drawing, swimming, and listening to Taylor Swift.  
-
-
-
-{% include spareline.html%}
-{% include image.html image_path="../pics/tongcheng.jpg" image_width="20%" %}
-
-##### Tong Cheng
-
-My name is Tong (Roxy) Cheng, and I am currently a second-year Master student in Biostatistics at Duke University. I hold a dual bachelor’s degree in mathematics and psychology from Boston University. I aim to develop impactful research projects that drive the creation of innovative medical treatments and therapies.  In my free time, I enjoy playing video games, such as League of Legends, cooking, and reading.
+I am a second-year PhD student in Pathology at Duke University, co-advised by Dr Zhang and Dr David Ashley. I received my bachelor's degree in Cell and Molecular Biology at Duke Kunshan University. My research interest is to integrate computational tools and molecular biology experiments to promote disease diagnostics or therapeutic development. In my free time, I enjoy drawing, swimming, and listening to Taylor Swift.  
 
 
 
@@ -51,8 +51,15 @@ My name is Tong (Roxy) Cheng, and I am currently a second-year Master student in
 
 ##### Josie Xing
 
-I’m a first-year Master’s student in Biomedical Engineering at Duke University, with a bachelor's degree in Biological Sciences from Xi’an Jiaotong-Liverpool University. My research centers on using single-cell transcriptomic data to elucidate metabolic pathways, with a growing interest in incorporating machine-learning methods into this work. Outside of academics, I enjoy working out, baking, and exploring coffee brewing.
+I’m a second-year Master’s student in Biomedical Engineering at Duke University, with a bachelor's degree in Biological Sciences from Xi’an Jiaotong-Liverpool University. My research centers on using single-cell transcriptomic data to elucidate metabolic pathways, with a growing interest in incorporating machine-learning methods into this work. Outside of academics, I enjoy working out, baking, and exploring coffee brewing.
 
+
+{% include spareline.html%}
+{% include image.html image_path="../pics/srikarkavirayuni.png" image_width="20%" %}
+
+##### Srikar Kavirayuni
+
+•	My name is Srikar Kavirayuni, and I am currently a MS student in the BME department at Duke University. I previously did my undergrad at Duke as well, majoring in BME and CS. Currently, I am working on developing statistical and ML approaches to uncover relationships between non-coding genomic features and cellular phenotypes using large-scale data. I have worked previously to answering many cool questions in AI based therapeutic and bio- design. In my free time, I enjoy playing tennis, relaxing with my friends (or just relaxing in general), and going on casual jam-sessions.
 
 
 {% include spareline.html%}
@@ -92,26 +99,12 @@ I am Siven Panda, and I am a Duke freshman studying Electrical and Computer Engi
 
 ##### Bo Chi
 
-I am a second-year Duke undergraduate student majoring in Math and Computer Science with a minor in Computational Biology & Bioinformatics. My research interests include developing optimized sequence and spatial multi-omic models to better understand cancer biology. In my free time, I enjoy playing word games, playing Ultimate Frisbee, and watching football.
-
-
-
-{% include spareline.html%}
-{% include image.html image_path="../pics/yitongzhou.jpg" image_width="20%" %}
-
-##### Yitong Zhou
-
-My name is Yitong Zhou. l am a junior data science student with expertise in machine learning, graph neural networks, and anomaly detection. l've experienced in interdisciplinary projects combining quantitative research, algorithm optimization, and data visualization. l am passionate about cutting-edge research in graph-based learning, robust machine learning techniques, and neural networks. With my strong programming skills in Python, MATLAB, and Java with proficiency in advanced machine learning tools. I am also equipped with strong ability to handle complex data sets and perform dimensionality reduction, anomaly detection, and predictive modeling.
-
-
+I am a third-year Duke undergraduate student majoring in Math and Computer Science with a minor in Computational Biology & Bioinformatics. My research interests include developing optimized sequence and spatial multi-omic models to better understand cancer biology. In my free time, I enjoy playing word games, playing Ultimate Frisbee, and watching football.
 
 {% include spareline.html%}
 
-{% include image.html image_path="../pics/yuqianzhang.jpg" image_width="20%" %}
 
-##### Yuqian Zhang
 
-I am a undergraduate student majoring Applied Mathematics. My previous research experience includes work on spatio-temporal analysis using ML/DL method, physical image encoding, and generative models for general inverse problem. My interests extend to Computer Graphics&Vision, and Neural Rendering, as well as Graphics&Motion&Game Design. I love about exploring computational techniques and digital creativity across interdisciplinary applications.
 
 
 
@@ -123,8 +116,11 @@ I am a undergraduate student majoring Applied Mathematics. My previous research 
 
 | Name | Role | Current status |
 | ----------- | ----------- | ----------- |
-| Huiyue Li | Biostatistics PhD rotation student | Biostatistics |
-| Xingyuan Zhang | CBB PhD rotation student | CBB |
+| Tong Cheng | Biostatistics Master student | Staff at Rutgers Cancer Institute |
+| Yuqian Zhang | Duke Applied Math undergraduate | Duke undergraduate |
+| Yitong Zhou | Duke Data Science undergraduate | Duke undergraduate |
+| Huiyue Li | Biostatistics PhD rotation student | Duke Biostatistics |
+| Xingyuan Zhang | CBB PhD rotation student | Duke CBB |
 | Chuhanwen Sun | Master student, Research Intern | PhD student |
 | Yijia Alva Jiang | Master student, Harvard DBMI, Shirley Liu lab | PhD student, UPenn |
 | Jack Jiajinlong Kang | Master student, Harvard CBQG, Shirley Liu lab | PhD student, MD Anderson Cancer Center |
