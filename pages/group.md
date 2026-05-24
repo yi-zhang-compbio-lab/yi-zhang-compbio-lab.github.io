@@ -10,7 +10,7 @@ permalink: /group/
 {% include image.html image_path="../pics/yizhang.png" image_width="20%" %}
 
 ##### Yi Zhang, PhD
-I'm an Assistant Professor at Duke University School of Medicine in the Department of Neurosurgery and Department of Biostatistics and Bioinformatics. I work on machine learning/AI for biomedical data with a focus on computational genomics. I obtained BS from University of Science and Technology of China (USTC), and PhD in Bioengineering with Dr. Jun S. Song at University of Illinois at Urbana-Champaign (UIUC). I did postdoc at Department of Data Science, Dana-Farber Cancer Institute and Harvard University School of Public Health mentored by Drs. Shirley Liu, Myles Brown, and Xihong Lin. I have been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. I have also recently been developing machine learning, and artificial intelligence methods that leverage large-scale single-cell datasets to understand cell states in complex tissue microenvironment. My ongoing work include ML/AI models of high-resolution spatial transcriptomics, computational pathology, and ML models for genetics and functional genomics. For fun, I enjoy hiking, music and wildlife photography. 
+I'm an Assistant Professor at Duke University School of Medicine in the Department of Neurosurgery and Department of Biostatistics and Bioinformatics. I work on machine learning/AI for biomedical data with a focus on computational genomics. I obtained BS from University of Science and Technology of China (USTC), and PhD in Bioengineering with Dr. Jun S. Song at University of Illinois at Urbana-Champaign (UIUC). I did postdoc at Department of Data Science, Dana-Farber Cancer Institute and Harvard University School of Public Health mentored by Drs. Shirley Liu, Myles Brown, and Xihong Lin. I have been developing integrative genomic methods to identify functional gene regulatory mechanisms behind disease-associated human genetic variants. I have also recently been developing machine learning, and artificial intelligence methods that leverage large-scale single-cell datasets to understand cell states in complex tissue microenvironment. My ongoing work include ML/AI models of high-resolution spatial transcriptomics, computational pathology, and ML models for genetics and functional genomics. For fun, I enjoy hiking, music and wildlife photography. Our research is supported by NIH and Duke Brain Tumor Center. 
 
 {% include spareline.html%}
 
@@ -22,13 +22,13 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 {% include spareline.html%}
 {% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
 ##### Weihang Zhang
-Postdoctoral Associate incoming. Bioinformatics, Computer Science, Multi-omics, Graphical models.
+Postdoctoral Associate. Bioinformatics, Computer Science, Multi-omics, Graphical models.
 
 
 {% include spareline.html%}
 {% include image.html image_path="../pics/zionsheng.png" image_width="20%" %}
 ##### Zion Sheng
-I am a Research Technician II supervised by Dr. Yi Zhang. I completed my undergraduate training at CUFE and UCLA, followed by a master's degree in ECE at Duke. Prior to my current position, I engaged in various projects at Duke Pathology, Duke ECE, and Mizzou EECS, where I co-authored several publications and presentations. My research is centered around highly efficient learning algorithms and digital biomedicine. In the lab, I am dedicated to the development of innovative and useful computational methods for integrative omics data analysis across multiple modalities. Outside work, I enjoy working out, reading, and having fun with friends.
+I am a Research Technician II supervised by Dr. Yi Zhang. I completed my undergraduate training at CUFE and UCLA, followed by a master's degree in ECE at Duke. Prior to my current position, I engaged in various projects at Duke Pathology, Duke ECE, and Mizzou EECS, where I co-authored several publications and presentations. My research is centered around highly efficient learning algorithms and digital biomedicine. In the lab, I am dedicated to the development of innovative and useful computational methods for integrative omics data analysis across multiple modalities. Outside work, I enjoy working out, reading, and having fun with friends. I'll be an incoming BME PhD student in Fall 2026.
 
 
 
@@ -50,13 +50,13 @@ I'm Yichen, a first-year PhD student in Duke’s Computational Biology and Bioin
 {% include spareline.html%}
 {% include image.html image_path="../pics/josiexing.png" image_width="20%" %}
 ##### Josie Xing
-I’m a second-year Master’s student in Biomedical Engineering at Duke University, with a bachelor's degree in Biological Sciences from Xi’an Jiaotong-Liverpool University. My research centers on using single-cell transcriptomic data to elucidate metabolic pathways, with a growing interest in incorporating machine-learning methods into this work. Outside of academics, I enjoy working out, baking, and exploring coffee brewing.
+I’m a second-year Master’s student in Biomedical Engineering at Duke University, with a bachelor's degree in Biological Sciences from Xi’an Jiaotong-Liverpool University. My research centers on using single-cell transcriptomic data to elucidate metabolic pathways, with a growing interest in incorporating machine-learning methods into this work. Outside of academics, I enjoy working out, baking, and exploring coffee brewing. I'll be a Research Technician co-supervised by Dr. Yi Zhang and Dr. Jiaoti Huang starting summer 2026.
 
 
 {% include spareline.html%}
 {% include image.html image_path="../pics/srikarkavirayuni.png" image_width="20%" %}
 ##### Srikar Kavirayuni
-My name is Srikar Kavirayuni, and I am currently a MS student in the BME department at Duke University. I previously did my undergrad at Duke as well, majoring in BME and CS. Currently, I am working on developing statistical and ML approaches to uncover relationships between non-coding genomic features and cellular phenotypes using large-scale data. I have worked previously to answering many cool questions in AI based therapeutic and bio- design. In my free time, I enjoy playing tennis, relaxing with my friends (or just relaxing in general), and going on casual jam-sessions.
+My name is Srikar Kavirayuni, and I am a MS student in the BME department at Duke University. I previously did my undergrad at Duke as well, majoring in BME and CS. Currently, I am working on developing statistical and ML approaches to uncover relationships between non-coding genomic features and cellular phenotypes using large-scale data. I have worked previously to answering many cool questions in AI based therapeutic and bio- design. In my free time, I enjoy playing tennis, relaxing with my friends (or just relaxing in general), and going on casual jam-sessions. I'll be a Research Technician starting summer 2026.
 
 
 
@@ -64,8 +64,6 @@ My name is Srikar Kavirayuni, and I am currently a MS student in the BME departm
 {% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
 ##### Yifan Deng
 MS student at Yale University Computational Biology and Bioinformatics Program.
-
-
 
 
 {% include spareline.html%}
@@ -82,7 +80,7 @@ My name is Zijia (Thomas) Tang, and I am a undergraduate research intern in Yi�
 
 ##### Palak Jolly
 
-I’m Palak Jolly, a Duke third year undergraduate student studying Computer Science, Bioinformatics and on the pre-medical track. I’m primarily interested in applying artificial intelligence and machine learning to larger biomedical questions, supporting the development of more effective disease response through predictive modeling and precision medicine. Previously, I have delved into protein structure prediction, and computationally modeling synthetic gene circuits for oncological applications. When free, I enjoy cooking, writing poetry and singing classical Indian music.
+I’m Palak Jolly, a Duke undergraduate student studying Computer Science, Bioinformatics and on the pre-medical track. I’m primarily interested in applying artificial intelligence and machine learning to larger biomedical questions, supporting the development of more effective disease response through predictive modeling and precision medicine. Previously, I have delved into protein structure prediction, and computationally modeling synthetic gene circuits for oncological applications. When free, I enjoy cooking, writing poetry and singing classical Indian music. I'll be a Research Technician starting summer 2026.
 
 
 
@@ -93,7 +91,7 @@ I’m Palak Jolly, a Duke third year undergraduate student studying Computer Sci
 
 ##### Bo Chi
 
-I am a third-year Duke undergraduate student majoring in Math and Computer Science with a minor in Computational Biology & Bioinformatics. My research interests include developing optimized sequence and spatial multi-omic models to better understand cancer biology, using mathematical methods including optimal transport . In my free time, I enjoy playing word games, playing Ultimate Frisbee, and watching football.
+I am a third-year Duke undergraduate student majoring in Math and Computer Science with a minor in Computational Biology & Bioinformatics. My research interests include developing optimized sequence and spatial multi-omic models to better understand cancer biology, using mathematical methods including optimal transport . In my free time, I enjoy playing word games, playing Ultimate Frisbee, and watching football. 
 
 {% include spareline.html%}
 
