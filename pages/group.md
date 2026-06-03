@@ -102,7 +102,7 @@ I am a third-year Duke undergraduate student majoring in Math and Computer Scien
 
 
 {% include spareline.html%}
-{% include image.html image_path="../pics/rubinmarcus.jpeg" image_width="20%" %}
+{% include image.html image_path="../pics/rubenmarcus.jpeg" image_width="20%" %}
 ##### Ruben Marcus
 I’m a first-year Duke undergraduate student studying Math and Computer Science. I’m interested in using ideas from probability, stats, optimization, and machine learning to understand complex, high-dimensional biological data. In my free time, I enjoy writing music, playing piano, hiking, and reading science/philosophy.
 
