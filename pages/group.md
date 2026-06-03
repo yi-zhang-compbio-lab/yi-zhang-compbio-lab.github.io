@@ -22,7 +22,7 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 {% include spareline.html%}
 {% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
 ##### Weihang Zhang
-Postdoctoral Associate. Bioinformatics, Computer Science, Multi-omics, Graphical models.
+Postdoctoral Associate. Bioinformatics, Computer Science, Multi-omics, Graphical models, contrastive learning.
 
 
 {% include spareline.html%}
@@ -63,11 +63,13 @@ My name is Srikar Kavirayuni, and I am a MS student in the BME department at Duk
 {% include spareline.html%}
 {% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
 ##### Yifan Deng
-MS student at Yale University Computational Biology and Bioinformatics Program.
+MS student at Yale University Computational Biology and Bioinformatics Program. RAship for summer 2026.
+
 
 
 {% include spareline.html%}
 {% include image.html image_path="../pics/zijiatang.png" image_width="20%" %}
+
 ##### Zijia Tang
 
 My name is Zijia (Thomas) Tang, and I am a undergraduate research intern in Yi’s lab starting June 2024, majoring in Computer Science.  My research interests lie in computational biology and machine learning. Previously, I delved into single-cell perturbation, employing Variational Autoencoders (VAEs) to predict cellular responses to perturbations. I’m eager to increase the interpretability of my previous work and learn ways to combine privileged information and new information found by neural networks. In my free time, I enjoy playing drums, exercising, and reading science fiction.
@@ -98,11 +100,24 @@ I am a third-year Duke undergraduate student majoring in Math and Computer Scien
 {% include linebreaker.html%}
 
 
+
+{% include spareline.html%}
+{% include image.html image_path="../pics/rubinmarcus.jpeg" image_width="20%" %}
+##### Ruben Marcus
+I’m a first-year Duke undergraduate student studying Math and Computer Science. I’m interested in using ideas from probability, stats, optimization, and machine learning to understand complex, high-dimensional biological data. In my free time, I enjoy writing music, playing piano, hiking, and reading science/philosophy.
+
+
+
+{% include spareline.html%}
+
+{% include linebreaker.html%}
+
 ***
 ## Alumni
 
 | Name | Role | Current status |
 | ----------- | ----------- | ----------- |
+| Xinyi Yang | Duke-DukeNUS summer exchange | PhD student, Duke-NUS medical school |
 | Tong Cheng | Biostatistics Master student | Staff at Rutgers Cancer Institute |
 | Yuqian Zhang | Duke Applied Math undergraduate intern | Undergraduate student |
 | Yitong Zhou | Duke Data Science undergraduate intern | Undergraduate student |
