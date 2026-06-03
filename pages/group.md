@@ -20,9 +20,10 @@ I'm an Assistant Professor at Duke University School of Medicine in the Departme
 
 
 {% include spareline.html%}
-{% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
+{% include image.html image_path="../pics/weihangzhang.png" image_width="20%" %}
 ##### Weihang Zhang
-Postdoctoral Associate. Bioinformatics, Computer Science, Multi-omics, Graphical models, contrastive learning.
+I’m a postdoctoral associate in Zhang lab at Duke. I earned my Ph.D. in Computational Biology and Medical Sciences (CBMS) from the University of Tokyo, where I was supervised by Prof. Kenta Nakai. My previous research focused on developing graph-based computational methods for single-cell epigenetic data. I am now working on spatial multi-omics, with a particular interest in understanding tumor microenvironment organization using high-resolution spatial data. Outside of research, I enjoy camping, digital painting, and playing PC and mobile games.Postdoctoral Associate. Bioinformatics, Computer Science, Multi-omics, Graphical models, contrastive learning.
+
 
 
 {% include spareline.html%}
