@@ -51,18 +51,20 @@ I am a 1st year BME PhD student and former Research Technician II supervised by 
 I’m a Research Technician co-supervised by Dr. Yi Zhang and Dr. Jiaoti Huang, and a recent BME Master graduate at Duke University, with a bachelor's degree in Biological Sciences from Xi’an Jiaotong-Liverpool University. My research centers on using single-cell and spatial transcriptomic data to elucidate metabolic pathways in prostate cancer therapeutics, with a growing interest in incorporating machine-learning methods into this work. Outside of academics, I enjoy working out, baking, and exploring coffee brewing.
 
 {% include spareline.html%}
+{% include image.html image_path="../pics/palakjolly.jpg" image_width="20%" %}
+##### Palak Jolly
+I’m Palak Jolly, a Research Technician in Zhang lab , and former Duke undergraduate student studying Computer Science, Bioinformatics and on the pre-medical track. I’m primarily interested in applying artificial intelligence and machine learning to larger biomedical questions, supporting the development of more effective disease response through predictive modeling and precision medicine. Previously, I have delved into protein structure prediction, and computationally modeling synthetic gene circuits for oncological applications. When free, I enjoy cooking, writing poetry and singing classical Indian music. 
+
+
+{% include spareline.html%}
 {% include image.html image_path="../pics/naheadshot.png" image_width="20%" %}
 ##### Yifan Deng
 MS student at Yale University Computational Biology and Bioinformatics Program, Research Assistantship for summer 2026.
 
 {% include linebreaker.html%}
 
-### Undergraduate Researchers
 
-{% include spareline.html%}
-{% include image.html image_path="../pics/palakjolly.jpg" image_width="20%" %}
-##### Palak Jolly
-I’m Palak Jolly, a Research Technician in Zhang lab , and former Duke undergraduate student studying Computer Science, Bioinformatics and on the pre-medical track. I’m primarily interested in applying artificial intelligence and machine learning to larger biomedical questions, supporting the development of more effective disease response through predictive modeling and precision medicine. Previously, I have delved into protein structure prediction, and computationally modeling synthetic gene circuits for oncological applications. When free, I enjoy cooking, writing poetry and singing classical Indian music. 
+### Undergraduate Researchers
 
 {% include spareline.html%}
 {% include image.html image_path="../pics/zijiatang.png" image_width="20%" %}
